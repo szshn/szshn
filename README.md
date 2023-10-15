@@ -1,12 +1,10 @@
 <h1 align="center">Hi, I'm Sujin. Nice to meet you👋</h1>
-<h3 align="center">Computer engineering student. Also an adult third culture kid.</h3>
+<h3 align="center">A computer engineering student. Also an adult third culture kid.</h3>
 
 - 🌱 I’m currently learning **web development, embedded systems, algorithms**
 
-- 👯 I’m looking to collaborate on [beginner projects or translation!](https://github.com/szshn)
-
-- 🤝 I’m looking for help with [open source contribution](https://github.com/szshn)
-
+- 👯 I’m looking to collaborate on beginner projects or translation
+- 🤝 I’m looking for help with open source contribution
 - ⚡ Fun fact **I played typing games on computer at 3🤓**
 
 <h3 align="left">Connect with me:</h3>
