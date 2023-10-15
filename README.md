@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sujin. Nice to meet you👋</h1>
 <h3 align="center">A computer engineering student and an adult third culture kid.</h3>
 
-- 🌱 I’m currently learning **web development, embedded systems, algorithms**
+- 🌱 I’m currently learning **web development, embedded systems, and algorithms**
 - 👯 I’m looking to collaborate on **beginner projects or translation**
 - 🤝 I’m looking for help with **open source contribution and coming up with Arduino project**
 - ⚡ Fun fact **I played typing games on computer at 3🤓**
