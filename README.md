@@ -3,8 +3,8 @@
 
 - 🌱 I’m currently learning **web development, embedded systems, algorithms**
 
-- 👯 I’m looking to collaborate on beginner projects or translation
-- 🤝 I’m looking for help with open source contribution
+- 👯 I’m looking to collaborate on **beginner projects or translation**
+- 🤝 I’m looking for help with **open source contribution and coming up with Arduino project**
 - ⚡ Fun fact **I played typing games on computer at 3🤓**
 
 <h3 align="left">Languages and Tools:</h3>
