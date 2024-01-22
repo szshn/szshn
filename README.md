@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sujin. Nice to meet you👋</h1>
 <h3 align="center">A computer engineering student and an adult third culture kid.</h3>
 
-- 🗺️ Although I was born in Korea, I spent my teenage years in Shenzhen, China. Surrounded by the industry-leader companies, I naturally grew my interests in technologies. I am currently studying in the University of Illinois Urbana-Champaign.
+- 🗺️ I spent my teenage years in Shenzhen, where I naturally grew my interests in technologies. I am currently studying in the University of Illinois Urbana-Champaign.
 - 🌱 I’m currently learning **web development** and **embedded systems**
 - 👯 I’m looking to collaborate on **beginner projects or translation**
 - 🤝 I’m looking for help with **open source contribution and coming up with Arduino project**
