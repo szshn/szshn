@@ -1,4 +1,4 @@
-# Hi, I'm Sujin!
+# Hi there😎 I'm Sujin!
 #### _Just an adult third culture kid who enjoys programming_<span>💻</span> _and travel_<span>🗺️</span>
 
 ## About me 👉👈
